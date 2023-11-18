@@ -13,6 +13,8 @@
 <h3><center>Jajo (biologia):</center></h3>
 <center><a href="https://pl.wikipedia.org/wiki/Jajo_(biologia)">Kliknij</a><center>
 
+<a href="https://pl.wikipedia.org/wiki/Jajko_(kulinaria)#/media/Plik:White_chicken_egg_square.jpg"><imgsrc="URL" alt="Jajko"></a>
+
 
 
 
