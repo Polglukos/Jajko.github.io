@@ -1,1 +1,18 @@
-# Jajko.github.io
+<html>
+
+<head>
+<title>Jajko</title>
+</head>
+
+<body>
+<a href="https://www.youtube.com/watch?v=KpBnc9acOZg">Nie klikaj w to nie radze serio</a>
+<h1><center>Jajko</center></h1>
+<h3><center>Jajko (kulinaria):</center></h3>
+<center><a href="https://pl.wikipedia.org/wiki/Jajko_(kulinaria)">Kliknij</a><center>
+<h3><center>Jajko w kulturze:</center></h3>
+<center><a href="https://pl.wikipedia.org/wiki/Jajko_w_kulturze">Kliknij</a><center>
+
+
+</body>
+
+</html>
